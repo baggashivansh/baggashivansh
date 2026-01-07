@@ -1,13 +1,4 @@
-Java Backend Developer
+Java Backend Developer.
 
-Building strong backend fundamentals through code and consistent practice.
-
-**Java • DSA • DevOps •Backend Engineering**
-
-India  
-
-**@baggashivansh**
-<!---
-baggashivansh/baggashivansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focused on building backend systems using Java and Spring Boot.
+Strong emphasis on fundamentals, clean code, and consistency.
