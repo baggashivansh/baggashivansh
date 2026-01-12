@@ -1,19 +1,7 @@
-## Java Backend Developer
+## Hi, I'm Shivansh 👋
 
-I build clean, reliable backend systems using Java and Spring Boot with a strong focus on fundamentals, consistency, and maintainable architecture.
+Java backend developer working with Java and Spring Boot.  
+I enjoy building clean backend systems and focusing on strong fundamentals.
 
-### Tech Stack
-- Java
-- Spring Boot
-- REST APIs
-- SQL / MySQL
-- JPA / Hibernate
-- Git, GitHub
-
-### What I Focus On
-- Writing clean, readable backend code
-- Building RESTful services with proper layering
-- Strong fundamentals over shortcuts
-- Improving daily through hands-on projects
-
-Currently pursuing MCA (2024–2026).
+### Tech I work with
+Java • Spring Boot • REST APIs • SQL • JPA • Git
